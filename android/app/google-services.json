@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730711086804",
+    "project_id": "bitetastic-dcf31",
+    "storage_bucket": "bitetastic-dcf31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730711086804:android:4ff0b3a7f37cc4b2e2cd41",
+        "android_client_info": {
+          "package_name": "com.example.bitetastic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730711086804-g0af06pt8ga23470l6v2kddbdjlld41d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-5wAMQlLoe8dHYnZxWBHOzkFQ3gLI1E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730711086804-g0af06pt8ga23470l6v2kddbdjlld41d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
